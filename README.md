@@ -5,9 +5,6 @@ I enjoy app dev, machine learning, and I'm currently exploring systems & MLops.
 
 <!-- BADGES -->
 [![Profile Views](https://komarev.com/ghpvc/?username=Shriyabh11&label=Profile%20views&color=0e75b6)](https://github.com/Shriyabh11)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shriyabh11&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Shriyabh11)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shriyabh11&layout=compact&theme=tokyonight&hide_border=true)
-![Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=Shriyabh11&theme=github)
 
 
 ## Tech stack & Skills
