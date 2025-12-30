@@ -22,4 +22,4 @@ I enjoy app dev, machine learning, and I'm currently exploring systems & MLops.
 ## Get in touch
 - GitHub: https://github.com/Shriyabh11  
 - Email:shriyabh2005@gmail.com 
-- LinkedIn:[ https://www.linkedin.com/in/your-profile (replace with your LinkedIn)](https://www.linkedin.com/in/shriya-bharadwaj-0375662a9/)
+- LinkedIn: https://www.linkedin.com/in/shriya-bharadwaj-0375662a9/
